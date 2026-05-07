@@ -890,8 +890,8 @@ function initDepartmentPicker() {
     submit.setAttribute('aria-disabled', String(!isActive));
     if (note) {
       note.textContent = isActive
-        ? 'Vous allez être redirigé vers la page locale active.'
-        : 'Sélectionnez votre département pour continuer.';
+        ? 'Vous allez être redirigé vers votre page locale.'
+        : 'Votre page locale s\u2019affiche après confirmation.';
     }
   };
 
