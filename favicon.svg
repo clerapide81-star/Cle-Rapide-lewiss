@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Clé Rapide">
-  <rect width="64" height="64" rx="14" fill="#0D0D0F"/>
-  <rect x="6" y="6" width="52" height="52" rx="10" fill="none" stroke="#D42B1E" stroke-width="2" opacity="0.9"/>
-  <text x="50%" y="52%" text-anchor="middle" dominant-baseline="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#F7F6F4">CR</text>
-</svg>
